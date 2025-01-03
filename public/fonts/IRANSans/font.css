@@ -1,0 +1,16 @@
+@font-face {
+    font-family: MyIRANSans;
+    src: url(IRANSans\(FaNum\).ttf);
+}
+@font-face {
+    font-family: IRANSansBold;
+    src: url(IRANSans\(FaNum\)_Bold.ttf);
+}
+@font-face {
+    font-family: IRANSansLight;
+    src: url(./IRANSans\(FaNum\)_Light.ttf);
+}
+@font-face {
+    font-family: IRANSansMedium;
+    src: url(./IRANSans\(FaNum\)_Medium.ttf);
+}
